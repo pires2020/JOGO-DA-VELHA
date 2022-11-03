@@ -10,7 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: #f7f7f7;
+    background-image: #ffffff;
 }
 main {
     display: flex;
@@ -23,7 +23,7 @@ h1 {
 hr {
     font-weight: bold;
     height: 3px;
-    background-color: rgb(238, 238, 238);
+    background-color: rgb(80, 77, 77);
     margin-bottom: 10px;
 }
 
